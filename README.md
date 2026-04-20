@@ -13,7 +13,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
 
@@ -23,27 +23,27 @@ When I'm not working with data, I enjoy watching football matches and learning a
 
 ---
 
-### [🏆 Check Out My Full Portfolio Website](https://farouk.github.io/)
+### [Check Out My Full Portfolio Website](https://farouk.github.io/)
 
 ---
 
-## 🔭 What I'm Currently Working On
+##  What I'm Currently Working On
 
 - **Project A:** The full data lifecycle of a client's Supplier transaction record with Microsoft Excel.
 - **Project B:** Product Quality and Return Analysis with SQL
 
 ---
 
-## 🌱 Currently Learning
+##  Currently Learning
 
 - Data Visualization with Power BI
 - Data Analysis with Python
 
 ---
 
-## 🛠️ Technical Skillset
+##  Technical Skillset
 
-#### 📊 Data Analysis & Visualization
+#### Data Analysis & Visualization
 
 <p>
   <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL">
@@ -57,7 +57,7 @@ When I'm not working with data, I enjoy watching football matches and learning a
   <img src="https://img.shields.io/badge/Python-Beginner-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
 </p>
 
-#### 📈 Business Intelligence & Analytics
+####  Business Intelligence & Analytics
 
 <p>
   <img src="https://img.shields.io/badge/A%2FB%20Testing-Intermediate-FF6B6B?style=flat" alt="A/B Testing">
