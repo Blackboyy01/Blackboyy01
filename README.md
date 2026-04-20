@@ -24,13 +24,13 @@ When I'm not working with data, I enjoy watching football matches and learning a
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** [ The full data lifecycle of a client's Supplier transaction record in Microsoft Excel.]  
-- **Project B:** [Product Quality and Return Analysis in SQL]
+- **Project A:** The full data lifecycle of a client's Supplier transaction record with Microsoft Excel.
+- **Project B:** Product Quality and Return Analysis with SQL
 
 ## 🌱 Currently Learning 
 
-- [Data Visualization with Power BI.]
-- [Learning Data Analysis with Python]
+- Data Visualization with Power BI.
+- Learning Data Analysis with Python
 
 ## 🛠️ Technical Skillset
 
