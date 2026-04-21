@@ -23,7 +23,7 @@ When I'm not working with data, I enjoy watching football matches and learning a
 
 ---
 
-### [Check Out My Full Portfolio Website](https://farouk.github.io/)
+### [Check Out My Full Portfolio Website](https://blackboyy01.github.io/)
 
 ---
 
